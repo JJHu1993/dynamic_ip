@@ -1,5 +1,5 @@
 #!/bin/bash
-ifconfig >> README.md
+ifconfig > README.md
 git add -A
 git commit -m"update"
 git push
