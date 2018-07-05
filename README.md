@@ -10,17 +10,17 @@ lo        Link encap:Local Loopback
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:3508210 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:3508210 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:3510308 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3510308 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:235790305 (235.7 MB)  TX bytes:235790305 (235.7 MB)
+          RX bytes:235942573 (235.9 MB)  TX bytes:235942573 (235.9 MB)
 
 wlxf42853004df8 Link encap:Ethernet  HWaddr f4:28:53:00:4d:f8  
           inet addr:175.159.75.22  Bcast:175.159.75.255  Mask:255.255.254.0
           inet6 addr: fe80::957e:12dc:df79:3f43/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:3697548 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:2063284 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:3702027 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2066333 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:1399796387 (1.3 GB)  TX bytes:775777308 (775.7 MB)
+          RX bytes:1400923943 (1.4 GB)  TX bytes:776615717 (776.6 MB)
 
