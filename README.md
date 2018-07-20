@@ -10,17 +10,17 @@ lo        Link encap:Local Loopback
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:4267675 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:4267675 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:4269846 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4269846 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:292952785 (292.9 MB)  TX bytes:292952785 (292.9 MB)
+          RX bytes:293125046 (293.1 MB)  TX bytes:293125046 (293.1 MB)
 
 vmnet1    Link encap:Ethernet  HWaddr 00:50:56:c0:00:01  
           inet addr:172.16.45.1  Bcast:172.16.45.255  Mask:255.255.255.0
           inet6 addr: fe80::250:56ff:fec0:1/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
           RX packets:0 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:5661 errors:0 dropped:0 overruns:0 carrier:0
+          TX packets:5957 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
           RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
 
@@ -29,7 +29,7 @@ vmnet8    Link encap:Ethernet  HWaddr 00:50:56:c0:00:08
           inet6 addr: fe80::250:56ff:fec0:8/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
           RX packets:0 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:5662 errors:0 dropped:0 overruns:0 carrier:0
+          TX packets:5959 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
           RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
 
@@ -37,8 +37,8 @@ wlxf42853004df8 Link encap:Ethernet  HWaddr f4:28:53:00:4d:f8
           inet addr:175.159.75.22  Bcast:175.159.75.255  Mask:255.255.254.0
           inet6 addr: fe80::957e:12dc:df79:3f43/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:8208334 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:4680457 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:8214906 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4683732 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:2596689253 (2.5 GB)  TX bytes:1723794920 (1.7 GB)
+          RX bytes:2597452343 (2.5 GB)  TX bytes:1724678086 (1.7 GB)
 
